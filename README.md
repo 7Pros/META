@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/7pros/META.png?label=ready&title=Ready)](https://waffle.io/7pros/META)
 # META
 META META
 
