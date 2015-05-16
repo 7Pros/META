@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="102.97715mm"
-   height="78.742134mm"
-   viewBox="0 0 364.87945 279.00756"
+   width="116.69335mm"
+   height="68.461182mm"
+   viewBox="0 0 413.48016 242.57899"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -19,13 +19,29 @@
   <defs
      id="defs4">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4454"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4456" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
        refX="0"
        id="marker4603"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path4605"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
@@ -72,8 +88,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="192.8816"
-     inkscape:cy="139.37635"
+     inkscape:cx="208.31"
+     inkscape:cy="103.85079"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -102,7 +118,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(9.4978717,11.495)">
+     transform="translate(-12.083063,-24.93358)">
     <g
        id="g4148"
        transform="matrix(0.99507389,0,0,1.0294118,-290.85178,-132.65042)"
@@ -130,7 +146,7 @@
     </g>
     <g
        id="g4159"
-       transform="translate(-333.00477,-123.96266)"
+       transform="translate(-227.29049,67.465913)"
        inkscape:export-xdpi="82.617302"
        inkscape:export-ydpi="82.617302">
       <rect
@@ -155,7 +171,7 @@
     </g>
     <g
        id="g4170"
-       transform="translate(-72.842271,-157.45509)"
+       transform="translate(-33.556557,-121.02651)"
        inkscape:export-xdpi="82.617302"
        inkscape:export-ydpi="82.617302">
       <ellipse
@@ -179,7 +195,7 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 61.485997,53.334622 106.62329,145.37432"
+       d="M 96.063308,90.347582 113.69505,144.57504"
        id="path4175"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -195,42 +211,94 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="85.241058"
-       y="97.515549"
+       x="108.09819"
+       y="111.80126"
        id="text4595"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="82.617302"
        inkscape:export-ydpi="82.617302"><tspan
          sodipodi:role="line"
          id="tspan4597"
-         x="85.241058"
-         y="97.515549">uses</tspan></text>
+         x="108.09819"
+         y="111.80126">uses</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4603)"
-       d="M 164.96759,146.60634 229.18304,49.425531"
+       d="m 229.7181,211.70039 58.3105,6.77018"
        id="path4601"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
-       inkscape:connection-start="#g4148"
-       inkscape:connection-end="#g4159"
        inkscape:export-xdpi="82.617302"
-       inkscape:export-ydpi="82.617302" />
+       inkscape:export-ydpi="82.617302"
+       inkscape:connection-end="#g4159"
+       inkscape:connection-start="#g4148" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="197.38391"
-       y="108.94414"
+       x="238.81248"
+       y="193.94412"
        id="text4637"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="82.617302"
        inkscape:export-ydpi="82.617302"><tspan
          sodipodi:role="line"
-         id="tspan4639"
-         x="197.38391"
-         y="108.94414">sends verification</tspan><tspan
+         x="238.81248"
+         y="193.94412"
+         id="tspan4641">sends messages to</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4190"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-9.4979785,-11.495)"><flowRegion
+         id="flowRegion4192"><rect
+           id="rect4194"
+           width="20.708128"
+           height="24.24366"
+           x="262.13458"
+           y="147.68773" /></flowRegion><flowPara
+         id="flowPara4196"></flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4454)"
+       d="M 325.85915,77.155421 197.59504,156.22065"
+       id="path4508"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path4200"
+       inkscape:connection-end="#g4148" />
+    <g
+       id="g4522"
+       transform="translate(15.714286,-1.4285714)">
+      <ellipse
+         ry="30.483488"
+         rx="81.197769"
+         cy="78.583992"
+         cx="310.14487"
+         id="path4200"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.74731207;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4180"
+         y="72.723892"
+         x="253.7657"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4184"
+           y="72.723892"
+           x="253.7657"
+           sodipodi:role="line">Marian Scherz</tspan><tspan
+           id="tspan4188"
+           y="92.723892"
+           x="253.7657"
+           sodipodi:role="line">Tim Jungnickel</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="247.79724"
+       y="136.79829"
+       id="text4528"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="197.38391"
-         y="128.94414"
-         id="tspan4641">message to</tspan></text>
+         id="tspan4530"
+         x="247.79724"
+         y="136.79829">own</tspan></text>
   </g>
 </svg>
