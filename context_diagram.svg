@@ -38,22 +38,6 @@
        orient="auto"
        refY="0"
        refX="0"
-       id="marker4603"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path4605"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
        id="Arrow1Lend"
        style="overflow:visible"
        inkscape:isstock="true">
@@ -88,8 +72,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="208.31"
-     inkscape:cy="103.85079"
+     inkscape:cx="202.03076"
+     inkscape:cy="102.84064"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -100,7 +84,7 @@
      inkscape:window-width="1364"
      inkscape:window-height="747"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="600"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -110,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -119,56 +103,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-12.083063,-24.93358)">
-    <g
-       id="g4148"
-       transform="matrix(0.99507389,0,0,1.0294118,-290.85178,-132.65042)"
-       inkscape:export-xdpi="82.617302"
-       inkscape:export-ydpi="82.617302">
-      <ellipse
-         ry="51.517776"
-         rx="102.53048"
-         cy="320.00162"
-         cx="424.76913"
-         id="path4142"
-         style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72477064" />
-      <text
-         transform="scale(1.0681369,0.93620959)"
-         sodipodi:linespacing="125%"
-         id="text4144"
-         y="352.33481"
-         x="342.54428"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.24351883px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="352.33481"
-           x="342.54428"
-           id="tspan4146"
-           sodipodi:role="line">Product</tspan></text>
-    </g>
-    <g
-       id="g4159"
-       transform="translate(-227.29049,67.465913)"
-       inkscape:export-xdpi="82.617302"
-       inkscape:export-ydpi="82.617302">
-      <rect
-         ry="4.5264292"
-         y="135.28499"
-         x="515.31909"
-         height="38.103203"
-         width="118.91539"
-         id="rect4153"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.80560827;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text4155"
-         y="160.30144"
-         x="532.4057"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="160.30144"
-           x="532.4057"
-           id="tspan4157"
-           sodipodi:role="line">Mailserver</tspan></text>
-    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 290.50382,75.64019 -92.90878,80.58046"
+       id="path4245"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path4200" />
     <g
        id="g4170"
        transform="translate(-33.556557,-121.02651)"
@@ -185,8 +126,8 @@
          sodipodi:linespacing="125%"
          id="text4166"
          y="193.89546"
-         x="104.3011"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="121.84798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
            y="193.89546"
            x="104.3011"
@@ -194,12 +135,11 @@
            sodipodi:role="line">User</tspan></text>
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 96.063308,90.347582 113.69505,144.57504"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 97.188891,90.237951 131.8249,196.76302"
        id="path4175"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
-       inkscape:connection-end="#g4148"
        inkscape:connection-start="#g4170"
        inkscape:export-xdpi="82.617302"
        inkscape:export-ydpi="82.617302">
@@ -208,42 +148,6 @@
       <desc
          id="desc4495">lkkshfglksjfh</desc>
     </path>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="108.09819"
-       y="111.80126"
-       id="text4595"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="82.617302"
-       inkscape:export-ydpi="82.617302"><tspan
-         sodipodi:role="line"
-         id="tspan4597"
-         x="108.09819"
-         y="111.80126">uses</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4603)"
-       d="m 229.7181,211.70039 58.3105,6.77018"
-       id="path4601"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="82.617302"
-       inkscape:export-ydpi="82.617302"
-       inkscape:connection-end="#g4159"
-       inkscape:connection-start="#g4148" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="238.81248"
-       y="193.94412"
-       id="text4637"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="82.617302"
-       inkscape:export-ydpi="82.617302"><tspan
-         sodipodi:role="line"
-         x="238.81248"
-         y="193.94412"
-         id="tspan4641">sends messages to</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4190"
@@ -255,50 +159,85 @@
            height="24.24366"
            x="262.13458"
            y="147.68773" /></flowRegion><flowPara
-         id="flowPara4196"></flowPara></flowRoot>    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4454)"
-       d="M 325.85915,77.155421 197.59504,156.22065"
-       id="path4508"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#path4200"
-       inkscape:connection-end="#g4148" />
-    <g
-       id="g4522"
-       transform="translate(15.714286,-1.4285714)">
+         id="flowPara4196" /></flowRoot>    <g
+       id="g4273"
+       transform="translate(-35.355339,-1.5152288)">
       <ellipse
          ry="30.483488"
          rx="81.197769"
-         cy="78.583992"
-         cx="310.14487"
+         cy="77.155418"
+         cx="325.85916"
          id="path4200"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.74731207;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text4180"
-         y="72.723892"
-         x="253.7657"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="82.406998"
+         x="326.20108"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           id="tspan4184"
-           y="72.723892"
-           x="253.7657"
-           sodipodi:role="line">Marian Scherz</tspan><tspan
            id="tspan4188"
-           y="92.723892"
-           x="253.7657"
-           sodipodi:role="line">Tim Jungnickel</tspan></text>
+           y="82.406998"
+           x="326.20108"
+           sodipodi:role="line">Marian Scherz</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="247.79724"
-       y="136.79829"
-       id="text4528"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4530"
-         x="247.79724"
-         y="136.79829">own</tspan></text>
+    <g
+       id="g4278">
+      <g
+         id="g4259">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00461709;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4247"
+           width="44.937019"
+           height="39.38118"
+           x="301.49902"
+           y="189.23314"
+           ry="7.5435076" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4249"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(36.831693,36.550334)"><flowRegion
+             id="flowRegion4251"><rect
+               id="rect4253"
+               width="90.408653"
+               height="27.779194"
+               x="273.24625"
+               y="162.27187" /></flowRegion><flowPara
+             id="flowPara4255">API</flowPara></flowRoot>      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 301.49902,207.5017 131.8249,196.76302"
+       id="path4257"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect4247" />
+    <g
+       id="g4286">
+      <ellipse
+         ry="53.033009"
+         rx="102.02541"
+         cy="196.76302"
+         cx="131.82489"
+         id="path4142"
+         style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72477064" />
+      <text
+         transform="scale(1.050171,0.95222592)"
+         sodipodi:linespacing="125%"
+         id="text4144"
+         y="217.29146"
+         x="122.30285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.585186px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="217.29146"
+           x="122.30285"
+           id="tspan4146"
+           sodipodi:role="line">Circuit</tspan><tspan
+           id="tspan4269"
+           y="253.02293"
+           x="122.30285"
+           sodipodi:role="line" /></text>
+    </g>
   </g>
 </svg>
