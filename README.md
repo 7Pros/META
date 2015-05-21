@@ -1,5 +1,6 @@
-[![Stories in Ready](https://badge.waffle.io/7pros/META.png?label=ready&title=Ready)](https://waffle.io/7pros/META)
 # META
-META META
 
-[Y u no click 4 wiki](https://github.com/7Pros/META/wiki)
+* [Zielformulierung](zielformulierung.md)
+* [Kontextdiagramm](context_diagram.svg)
+* Requirements sind in einer [Google Docs Tabelle](https://docs.google.com/spreadsheets/d/1SoyXugix6je0kMOnhdjpEJgAKbS0o_ODnq5jCw7JaLQ/edit#gid=0)
+* Die Rollen sind in der [organisation.md](organisation.md) festgelegt
