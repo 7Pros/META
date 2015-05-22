@@ -586,6 +586,30 @@
 										},
 										{
 											"_type": "ERDColumnView",
+											"_id": "AAAAAAFNe9tn9/dtPYI=",
+											"_parent": {
+												"$ref": "AAAAAAFNUz3DZsGLYSc="
+											},
+											"model": {
+												"$ref": "AAAAAAFNe9tnrvdqS5I="
+											},
+											"visible": true,
+											"enabled": true,
+											"lineColor": "#000000",
+											"fillColor": "#ffffff",
+											"fontColor": "#000000",
+											"font": "Arial;13;0",
+											"showShadow": true,
+											"containerChangeable": false,
+											"containerExtending": false,
+											"left": 293,
+											"top": 313,
+											"width": 176,
+											"height": 13,
+											"autoResize": false
+										},
+										{
+											"_type": "ERDColumnView",
 											"_id": "AAAAAAFNU0uVZcGgTE4=",
 											"_parent": {
 												"$ref": "AAAAAAFNUz3DZsGLYSc="
@@ -603,7 +627,7 @@
 											"containerChangeable": false,
 											"containerExtending": false,
 											"left": 293,
-											"top": 313,
+											"top": 328,
 											"width": 176,
 											"height": 13,
 											"autoResize": false
@@ -627,7 +651,7 @@
 											"containerChangeable": false,
 											"containerExtending": false,
 											"left": 293,
-											"top": 328,
+											"top": 343,
 											"width": 176,
 											"height": 13,
 											"autoResize": false
@@ -645,7 +669,7 @@
 									"left": 288,
 									"top": 278,
 									"width": 186,
-									"height": 68,
+									"height": 83,
 									"autoResize": false
 								}
 							],
@@ -2186,6 +2210,20 @@
 								"$ref": "AAAAAAFNUz3DY8GHexI="
 							},
 							"name": "email",
+							"type": "VARCHAR",
+							"length": 0,
+							"primaryKey": false,
+							"foreignKey": false,
+							"nullable": false,
+							"unique": false
+						},
+						{
+							"_type": "ERDColumn",
+							"_id": "AAAAAAFNe9tnrvdqS5I=",
+							"_parent": {
+								"$ref": "AAAAAAFNUz3DY8GHexI="
+							},
+							"name": "password",
 							"type": "VARCHAR",
 							"length": 0,
 							"primaryKey": false,
